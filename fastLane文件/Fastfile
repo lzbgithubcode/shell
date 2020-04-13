@@ -1,0 +1,38 @@
+lane :elementMangerLib
+lane :elementMangerLib do |options|
+
+tagName = options[:tag]
+targetName = options[:target]
+
+#巷道的操作action
+
+# 1. pod install  安装
+
+
+# 2. git  add .
+
+
+# 3. git commit -m  'xxx'
+
+
+# 4. git pull origin master
+
+
+# 5. git push origin master
+
+
+# 6.验证tag 是否存在 如果存在就移除
+
+
+# 7.打上便签  git tag  标签名称
+
+
+# 8. Git push --tags
+
+
+# 9.验证私有库
+
+
+# 10.提交到本地私有索引库
+
+
